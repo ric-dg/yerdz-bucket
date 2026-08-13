@@ -1,9 +1,9 @@
 {
     "version": "0.1.1",
     "description": "Self-hosted multi-camera NVR for Windows: USB webcams + IP/RTSP cameras with motion & sound detection, event recording and a control panel.",
-    "homepage": "https://github.com/ric-dg/homenvr",
+    "homepage": "https://github.com/ric-dg/homenvr-v1",
     "license": "MIT",
-    "url": "https://github.com/ric-dg/homenvr/releases/download/v0.1.1/HomeNVR-0.1.1-bundled.zip",
+    "url": "https://github.com/ric-dg/homenvr-v1/releases/download/v0.1.1/HomeNVR-0.1.1-bundled.zip",
     "hash": "43dc06dff285b2583c753becd4746dcab99b111d22059c6a9b5a4c16c0c1b439",
     "extract_dir": "",
     "bin": "home-nvr.cmd",
@@ -18,9 +18,9 @@
         "logs"
     ],
     "checkver": {
-        "github": "https://github.com/ric-dg/homenvr"
+        "github": "https://github.com/ric-dg/homenvr-v1"
     },
     "autoupdate": {
-        "url": "https://github.com/ric-dg/homenvr/releases/download/v$version/HomeNVR-$version-bundled.zip"
+        "url": "https://github.com/ric-dg/homenvr-v1/releases/download/v$version/HomeNVR-$version-bundled.zip"
     }
 }

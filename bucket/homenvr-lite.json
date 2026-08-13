@@ -1,9 +1,9 @@
 {
     "version": "0.1.1",
     "description": "Self-hosted multi-camera NVR for Windows (lite): USB webcams + IP/RTSP cameras with motion & sound detection. HomeNVR only - go2rtc/ffmpeg/python are auto-detected via PATH.",
-    "homepage": "https://github.com/ric-dg/homenvr",
+    "homepage": "https://github.com/ric-dg/homenvr-v1",
     "license": "MIT",
-    "url": "https://github.com/ric-dg/homenvr/releases/download/v0.1.1/HomeNVR-0.1.1-lite.zip",
+    "url": "https://github.com/ric-dg/homenvr-v1/releases/download/v0.1.1/HomeNVR-0.1.1-lite.zip",
     "hash": "1c4baf95f5c1ec9cd0032c13b0d201bbd18a127f5acae7486ab8f3b56693ef64",
     "bin": "home-nvr.cmd",
     "shortcuts": [
@@ -17,9 +17,9 @@
         "logs"
     ],
     "checkver": {
-        "github": "https://github.com/ric-dg/homenvr"
+        "github": "https://github.com/ric-dg/homenvr-v1"
     },
     "autoupdate": {
-        "url": "https://github.com/ric-dg/homenvr/releases/download/v$version/HomeNVR-$version-lite.zip"
+        "url": "https://github.com/ric-dg/homenvr-v1/releases/download/v$version/HomeNVR-$version-lite.zip"
     }
 }
