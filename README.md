@@ -7,7 +7,7 @@ recording, control panel). Windows only.
 ## Install
 
 ```powershell
-scoop bucket add homenvr https://github.com/ric-dg/homenvr-bucket
+scoop bucket add homenvr https://github.com/ric-dg/yerdz-bucket
 scoop install homenvr
 ```
 
